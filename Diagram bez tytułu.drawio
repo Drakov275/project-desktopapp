@@ -1,9 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T08:07:05.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="8ElVymPWkc7eVdqDuE-J" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T08:19:19.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZHtMB8FU90lfrQpvMxzz" version="22.1.11" type="github">
   <diagram name="Strona-1" id="KciXNImmKgs5rosuy03C">
-    <mxGraphModel>
+    <mxGraphModel dx="2234" dy="1232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DdxbtGBHyIOgsORISWLq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-506" y="-142" width="492" height="688" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-2" value="reminder&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-326" y="-80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-3" value="LOGO&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-297" y="-117" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-5" value="name of task&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="-14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-8" value="Set reminder&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-12" value="create button&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-309" y="150" width="90.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-13" value="Date&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-238" y="-22" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-15" value="Delete reminder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-244" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-17" value="choicebox" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-162" y="42" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-18" value="datetimepicker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-168.5" y="-17.5" width="107" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-19" value="txt-field" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-395.5" y="-14" width="74" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-403" y="62" width="22" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdxbtGBHyIOgsORISWLq-21" target="DdxbtGBHyIOgsORISWLq-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-359.270909090909" y="300.5" as="sourcePoint" />
+            <mxPoint x="-412.998181818182" y="103.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-21" value="checkbox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-326" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-23" value="SCROLL PANE&lt;br&gt;NAME, DESC,REMINDER, STATUS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-503" y="331" width="487" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="331" width="9" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-25" value="View Active" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="301" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-26" value="View Closed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="301" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-362" y="304" width="21" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="305" width="18" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-29" value="Delete all closed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="306" width="124" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-30" value="Color based on status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="235" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.693;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DdxbtGBHyIOgsORISWLq-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204" y="339" as="sourcePoint" />
+            <mxPoint y="402" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="254" y="339" />
+              <mxPoint x="204" y="289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="297" y="322" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="297" y="358" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="297" y="398" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-36" value="Active" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="364" y="317" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-37" value="Close to deadline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="361" y="356" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-39" value="Closed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="368" y="401" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-40" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="375" as="sourcePoint" />
+            <mxPoint x="385" y="594" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="486" y="375" />
+              <mxPoint x="569" y="464" />
+              <mxPoint x="666" y="455" />
+              <mxPoint x="612" y="692" />
+              <mxPoint x="436" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-41" value="Light up orange only when the task is in the set reminder range (1-8h before deadline)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="228" y="549" width="292" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-42" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;width=-2;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-465" y="116" as="sourcePoint" />
+            <mxPoint x="-365" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-43" value="hour slider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-457" y="152" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdxbtGBHyIOgsORISWLq-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-371.5" y="168" as="sourcePoint" />
+            <mxPoint x="-368" y="114" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-321.5" y="168" />
+              <mxPoint x="-319" y="143" />
+              <mxPoint x="-371.5" y="118" />
+              <mxPoint x="-294" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
